@@ -41,7 +41,7 @@ span {
     transform: translate(-50%, -50%);
     pointer-events: none;
     border-radius: 50%;
-    animation: ripple 1s linear infinite;
+    animation: ripple 0.8s linear infinite;
 }
 
 @keyframes ripple {

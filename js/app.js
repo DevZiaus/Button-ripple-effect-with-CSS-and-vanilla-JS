@@ -11,6 +11,6 @@ buttons.forEach(btn => {
 
         setTimeout(() => {
             ripples.remove()
-        }, 1000)
+        }, 800)
     })
 })
